@@ -307,7 +307,26 @@ See `production-scaling.md` for detailed architecture.
    - Advanced permissions
 
 ---
+## 📸 Screenshots
 
+### 1. Register
+![Register](assets/Register.jpg)
+
+### 2. Login
+![Login](assets/Login.jpg)
+
+### 3. Add Task
+![Add Task](assets/Add_Task.jpg)
+
+### 4. Task Added Successfully
+![Task Added Successfully](assets/Task_Added_Successfully.jpg)
+
+### 5. Task List
+![Task List](assets/TaskList.jpg)
+
+### 6. Search Tasks
+![Search](assets/Search.jpg)
+---
 Built with ❤️
 
 **Happy Coding!** 🚀

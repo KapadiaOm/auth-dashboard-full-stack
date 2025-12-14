@@ -310,22 +310,23 @@ See `production-scaling.md` for detailed architecture.
 ## 📸 Screenshots
 
 ### 1. Register
-![Register](assets/Register.jpg)
+![Register](assets/Register.png)
 
 ### 2. Login
-![Login](assets/Login.jpg)
+![Login](assets/Login.png)
 
 ### 3. Add Task
-![Add Task](assets/Add_Task.jpg)
+![Add Task](assets/Add_Task.png)
 
 ### 4. Task Added Successfully
-![Task Added Successfully](assets/Task_Added_Successfully.jpg)
+![Task Added Successfully](assets/Task_Added_Successfully.png)
 
 ### 5. Task List
-![Task List](assets/TaskList.jpg)
+![Task List](assets/TaskList.png)
 
 ### 6. Search Tasks
-![Search](assets/Search.jpg)
+![Search](assets/Search.pngg)
+
 ---
 Built with ❤️
 

@@ -325,7 +325,7 @@ See `production-scaling.md` for detailed architecture.
 ![Task List](assets/TaskList.png)
 
 ### 6. Search Tasks
-![Search](assets/Search.pngg)
+![Search](assets/Search.png)
 
 ---
 Built with ❤️
